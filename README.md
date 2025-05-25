@@ -1,6 +1,6 @@
 # 
 
-👋<b>Mark Shabanov, Student at <a href="https://www.hive.fi/en/" target="_blank" rel="noopener noreferrer">Hive Helsinki</a></b>
+<b>Mark Shabanov, Student at <a href="https://www.hive.fi/en/" target="_blank" rel="noopener noreferrer">Hive Helsinki</a></b>
 
 Proficient in <b>C and C++</b> for mid- and low-level programming, memory management, and OOP. Currently exploring <b>React, Redux, Node.js (Express.js), and TypeScript. </b>
 
